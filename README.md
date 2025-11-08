@@ -28,6 +28,11 @@
 
 ---
 
+### 📫 Contact Me
+- 📧 Email: [e01018478430@gmail.com](mailto:e01018478430@gmail.com)
+
+---
+
 ### 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
