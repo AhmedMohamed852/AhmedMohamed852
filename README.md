@@ -1,4 +1,4 @@
-![Banner](https://unsplash.com/photos/4hbJ-eymZ1o)
+![Banner](https://images.unsplash.com/photo-4hbJ-eymZ1o?auto=format&fit=crop&w=1350&q=80)
 
 <p align="center">
   <img src="https://i.ibb.co/4J9Y7W2/ahmed-profile.jpg" width="150" style="border-radius:50%">
