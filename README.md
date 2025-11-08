@@ -1,7 +1,7 @@
-![Banner](https://images.unsplash.com/photo-4hbJ-eymZ1o?auto=format&fit=crop&w=1350&q=80)
+![Banner](https://plus.unsplash.com/premium_photo-1661876775049-d56ae3c0a677?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1155)
 
 <p align="center">
-  <img src="https://i.ibb.co/4J9Y7W2/ahmed-profile.jpg" width="150" style="border-radius:50%">
+  <img src="https://avatars.githubusercontent.com/u/227492906?v=4" width="150" style="border-radius:50%">
 </p>
 
 <p align="center">
