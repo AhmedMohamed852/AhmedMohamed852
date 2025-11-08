@@ -1,7 +1,7 @@
-![Banner](https://images.unsplash.com/photo-1603415526960-f8f5b3ec7e7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VlfHx8fHx8fHwxNjk5MzAwODQ4&ixlib=rb-4.0.3&q=80&w=1200)
+![Banner](https://unsplash.com/photos/IOvzaYTI5M0)
 
 <p align="center">
-  <img src="PUT_YOUR_IMAGE_LINK_HERE" width="150" style="border-radius:50%">
+  <img src="https://i.ibb.co/4J9Y7W2/ahmed-profile.jpg" width="150" style="border-radius:50%">
 </p>
 
 <p align="center">
@@ -61,4 +61,5 @@
 
 ### ✨ Tip
 - To change the look, try different `theme` values on the GitHub stats badges (e.g., `dark`, `radical`, `tokyonight`).
-- You can add GIFs or a profile picture by uploading images to the repository and using relative links: `![alt](./images/my-picture.png)`.
+- You can add GIFs or a profile picture by uploading images to the repository and using relative links:  
+  `![alt](./images/my-picture.png)`
