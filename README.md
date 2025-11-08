@@ -19,14 +19,14 @@
 
 💻 **Back-End Developer** | ☕ **Java** | 🌱 **Spring Boot** | 🗄️ **Oracle DB**
 
----
+
 
 ### 🔭 About me
 - I'm a backend developer focusing on building reliable APIs and scalable services.
 - I enjoy clean architecture, testing, and learning new backend technologies.
 - 💬 Passionate about backend development and clean code ☕🚀
 
----
+
 
 ### 🛠️ Tech Stack
 
@@ -41,7 +41,15 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedMohamed852&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMohamed852&layout=compact&theme=radical)
+
+
 
 ### 🔗 Connect with me
 
