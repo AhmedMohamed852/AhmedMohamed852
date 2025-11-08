@@ -56,10 +56,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmedmohammed-jv/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/AhmedMohamed852)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1HjGm7okq5/)
-
----
-
-### ✨ Tip
-- To change the look, try different `theme` values on the GitHub stats badges (e.g., `dark`, `radical`, `tokyonight`).
-- You can add GIFs or a profile picture by uploading images to the repository and using relative links:  
-  `![alt](./images/my-picture.png)`
