@@ -1,9 +1,5 @@
-![Banner](https://plus.unsplash.com/premium_photo-1661877737564-3dfd7282efcb?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1200)
 
-<p align="center">
-  <img src="https://i.ibb.co/CspHzBC2/my-profile.jpg" width="150" style="border-radius:50%">
-</p>
-# 💫 About Me:
+<h1># 💫 About Me:</h1>
 👋 Hi, I'm Ahmed Mohamed<br>💻 Back-End Developer | ☕ Java | 🌱 Spring Boot | 🗄️ Oracle DB<br><br>🔭 About me<br>I'm a backend developer focusing on building reliable APIs and scalable services.<br>I enjoy clean architecture, testing, and learning new backend technologies.<br>💬 Passionate about backend development and clean code ☕🚀
 
 
