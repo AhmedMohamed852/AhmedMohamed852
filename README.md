@@ -1,10 +1,17 @@
 <h1># 💫 About Me:</h1>
-<h3>>👋 Hi, I'm Ahmed Mohamed<br>💻 Back-End Developer | ☕ Java | 🌱 Spring Boot | 🗄️ Oracle DB<br><br>🔭 About me<br>I'm a backend developer focusing on building reliable APIs and scalable services.<br>I enjoy clean architecture, testing, and learning new backend technologies.<br>💬 Passionate about backend development and clean code ☕🚀</h3>
+<h3>>👋 Hi, I'm Ahmed Mohamed<br>
+💻 Back-End Developer | ☕ Java | 🌱 Spring Boot | 🗄️ Oracle DB<br><br>
+🔭 About me<br>
+I'm a backend developer focusing on building reliable APIs and scalable services.<br>
+I enjoy clean architecture, testing, and learning new backend technologies.<br>
+💬 Passionate about backend development and clean code ☕🚀
+</h3>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1HjGm7okq5/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedmohammed-jv/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:e01018478430@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:e01018478430@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201018478430)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
